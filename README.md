@@ -22,5 +22,3 @@ The simple code to create simple `Music Player` using HTML, CSS, SCSS & Vainilla
 
 ## *Author Name*
 [Vikrant](https://github.com/thevkrant)
-
-![Music Player]()
