@@ -5,7 +5,7 @@
 
 # Simple Music Player using Vainilla JavaScript
 
-The simple code to create beautiful `Analog clock` in light & dark using HTML, CSS & JavaScript.
+The simple code to create simple `Music Player` using HTML, CSS, SCSS & Vainilla JavaScript.
 
 ### Prerequisites
 - HTML
