@@ -15,7 +15,7 @@ The simple code to create simple `Music Player` using HTML, CSS, SCSS & Vainilla
 
 ### Output Screenshot
 <p align="center">
-  <a href="Outputs/output1.png"><img src="https://user-images.githubusercontent.com/85709371/148986273-a28592d3-fcf7-403b-9ffb-0f5a01f38b67.png" alt="output 1"></a>
+  <a href="Outputs/output1.png"><img src="https://user-images.githubusercontent.com/85709371/150833327-f0a27b5f-c280-4ed0-9d4a-0f24bf3e4d07.png" alt="output 1"></a>
 </p>
 
 <!-- Visit <a href="https://thevkrant.github.io/music-player/">Here</a> -->
@@ -23,4 +23,4 @@ The simple code to create simple `Music Player` using HTML, CSS, SCSS & Vainilla
 ## *Author Name*
 [Vikrant](https://github.com/thevkrant)
 
-![Music Player](https://user-images.githubusercontent.com/85709371/150833327-f0a27b5f-c280-4ed0-9d4a-0f24bf3e4d07.png)
+![Music Player]()
